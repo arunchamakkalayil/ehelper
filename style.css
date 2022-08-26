@@ -414,27 +414,5 @@ p {
 
 
 
-.feedback{
-  text-align: center;
-  margin-top: 8rem;
-}
-  
-.feedback button {
-  border: 1px solid white;
-  color: white;
-  cursor: pointer;
-  padding: 0rem 2rem 0rem 2rem;
-  transition-duration: 0.4s;
-  background-color: transparent;
-
-}
-.feedback button:hover{
-  background-color: rgb(255, 255, 255); 
-  color: black; 
-  border: 2px solid rgb(255, 255, 255);
-}
-.feedback button a:hover{
-  color: black;
-}
 
 
