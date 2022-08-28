@@ -1,0 +1,63 @@
+[33mcommit 7262d0d799c01b8a47a30d3b8e9bb375340f4a06[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: arunchamakkalayil <strangerthings369369@gmail.com>
+Date:   Fri Aug 26 21:28:37 2022 +0530
+
+    re fix ba english
+
+[33mcommit 2c0a8a3a63e02adb9c254cbf4669bfbac5217752[m
+Author: arunchamakkalayil <strangerthings369369@gmail.com>
+Date:   Fri Aug 26 21:24:02 2022 +0530
+
+    ba english
+
+[33mcommit 7a7e39a81b00a1b0c35f83a620a02bb089d75d12[m
+Author: arunchamakkalayil <strangerthings369369@gmail.com>
+Date:   Fri Aug 26 18:07:44 2022 +0530
+
+    stable
+
+[33mcommit 173d08428065e76a359e7a2ddcc14c3fb8f15e13[m
+Merge: e738abe db0f9a9
+Author: arunchamakkalayil <strangerthings369369@gmail.com>
+Date:   Fri Aug 26 12:56:47 2022 +0530
+
+    zoology maths updated
+
+[33mcommit e738abe6a70434eda80bfbbeed919ac82dfb54f7[m
+Author: arunchamakkalayil <strangerthings369369@gmail.com>
+Date:   Fri Aug 26 12:49:27 2022 +0530
+
+    maths,zoology error updated
+
+[33mcommit db0f9a9bca2f94033004e868c9be3b59b7a39c8e[m
+Merge: 0ad1b2b 6e686b3
+Author: arunchamakkalayil <strangerthings369369@gmail.com>
+Date:   Mon Aug 22 06:19:42 2022 +0530
+
+    physics hindi updated
+
+[33mcommit 0ad1b2bcd5d3e8c61423982c7ceca2eb5da433f7[m
+Author: arunchamakkalayil <strangerthings369369@gmail.com>
+Date:   Mon Aug 22 06:15:34 2022 +0530
+
+    hindi physics error updated
+
+[33mcommit 6e686b3796664be70f81675e1c8137b5ebfb0893[m
+Author: Arun C Shaji <73426015+arunchamakkalayil@users.noreply.github.com>
+Date:   Sun Aug 21 15:26:15 2022 +0530
+
+    Create Gemfile
+    
+    gemfile
+
+[33mcommit bf5f8e7c613f4c766def3c674d5aade65f2e73d7[m
+Author: Arun C Shaji <73426015+arunchamakkalayil@users.noreply.github.com>
+Date:   Sun Aug 21 15:07:14 2022 +0530
+
+    Set theme jekyll-theme-cayman
+
+[33mcommit ba33a0f7c2e897ab9b9445bea01aa7dae2d5af8a[m
+Author: arunchamakkalayil <strangerthings369369@gmail.com>
+Date:   Sun Aug 21 15:05:05 2022 +0530
+
+    re deploying

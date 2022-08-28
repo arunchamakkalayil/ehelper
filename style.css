@@ -413,3 +413,28 @@ p {
 }
 
 
+
+.slider-wrapper{
+  width: 100%;
+}
+.carousel{
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 30px;
+
+}
+
+.carousel .card{
+
+padding: 30px;
+
+background-color: transparent;
+text-align: center;
+color: white;
+justify-content: center;
+align-items: center;
+
+}
+img{
+  pointer-events: none;
+}
